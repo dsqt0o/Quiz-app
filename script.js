@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { text: 'Coding Club', correct: true },
         { text: 'Cooking Club', correct: false },
         { text: 'Photography Club', correct: true },
-        { text: 'All of the above', correct: true }
+        { text: 'All of the above', correct: False }
       ]
     },
 
@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { text: 'Entrepreneurship Cell', correct: true },
         { text: 'Astronomy Club', correct: false },
         { text: 'Design Club', correct: false },
-        { text: 'All of the above', correct: true }
+        { text: 'All of the above', correct: false }
       ]
     },
     {
